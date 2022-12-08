@@ -1,0 +1,61 @@
+.text1 {
+
+    padding-top: 10px;
+    padding-left: 10px;
+    font-family: arial;
+}
+
+.input1 {
+    width: 150px;
+    height: 20px;
+    border: none;
+    border-radius: 2px;
+    margin-left: 14px;
+}
+
+
+.butt {
+
+    width: 40px;
+    height: 22px;
+    border: none;
+    border-radius: 2px;
+    margin-right: 12px;
+    margin-top: 5px;
+}
+
+.div1 {
+    width: 300px;
+    height: auto;
+    border-radius: 3px;
+    background-color: rgb(215, 223, 204);
+    border-top: solid;
+    padding-bottom: 10px;
+}
+
+.div2 {
+    border-top: 1px solid;;
+    width: 300px;
+    height: auto;
+
+}
+
+.div3 {
+
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    padding: 8px;
+}
+
+.del_butt_li2 {
+    width: 22px;
+    height: 20px;
+    margin-left: auto;
+    text-align: left;
+}
+
+.li_active {
+    text-decoration: line-through;
+}
